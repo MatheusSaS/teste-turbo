@@ -1,0 +1,2 @@
+echo "apps/web/** filter=git-crypt" >> .gitattributes
+echo "apps/docs/** filter=git-crypt" >> .gitattributes
